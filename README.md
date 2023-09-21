@@ -1,6 +1,6 @@
 # Medium Clone
 
-This project is a clone of a Medium.
+Simple Medium clone made with Bootstrap
 
 ## Screenshots
 
