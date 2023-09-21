@@ -2,8 +2,12 @@ body{
     font-family: 'PT Serif', serif;
 }
 .bg-orange{
-    background-color: #FFC017;
+    background-color: #ffc21a;
 }
 .border-bottom-dark{
     border-bottom: 1px solid #414141;
+}
+.aside-buttons li{
+    margin-top: 10px; /* Yukarıdan 10px boşluk */
+
 }
